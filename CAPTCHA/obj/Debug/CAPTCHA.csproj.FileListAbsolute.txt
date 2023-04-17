@@ -1,0 +1,16 @@
+C:\Users\Rekira\source\repos\CAPTCHA\CAPTCHA\bin\Debug\CAPTCHA.exe.config
+C:\Users\Rekira\source\repos\CAPTCHA\CAPTCHA\bin\Debug\CAPTCHA.exe
+C:\Users\Rekira\source\repos\CAPTCHA\CAPTCHA\bin\Debug\CAPTCHA.pdb
+C:\Users\Rekira\source\repos\CAPTCHA\CAPTCHA\obj\Debug\CAPTCHA.csproj.AssemblyReference.cache
+C:\Users\Rekira\source\repos\CAPTCHA\CAPTCHA\obj\Debug\CAPTCHA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rekira\source\repos\CAPTCHA\CAPTCHA\obj\Debug\MainWindow.g.cs
+C:\Users\Rekira\source\repos\CAPTCHA\CAPTCHA\obj\Debug\App.g.cs
+C:\Users\Rekira\source\repos\CAPTCHA\CAPTCHA\obj\Debug\CAPTCHA_MarkupCompile.cache
+C:\Users\Rekira\source\repos\CAPTCHA\CAPTCHA\obj\Debug\CAPTCHA_MarkupCompile.lref
+C:\Users\Rekira\source\repos\CAPTCHA\CAPTCHA\obj\Debug\MainWindow.baml
+C:\Users\Rekira\source\repos\CAPTCHA\CAPTCHA\obj\Debug\CAPTCHA.g.resources
+C:\Users\Rekira\source\repos\CAPTCHA\CAPTCHA\obj\Debug\CAPTCHA.Properties.Resources.resources
+C:\Users\Rekira\source\repos\CAPTCHA\CAPTCHA\obj\Debug\CAPTCHA.csproj.GenerateResource.cache
+C:\Users\Rekira\source\repos\CAPTCHA\CAPTCHA\obj\Debug\CAPTCHA.csproj.CoreCompileInputs.cache
+C:\Users\Rekira\source\repos\CAPTCHA\CAPTCHA\obj\Debug\CAPTCHA.exe
+C:\Users\Rekira\source\repos\CAPTCHA\CAPTCHA\obj\Debug\CAPTCHA.pdb
